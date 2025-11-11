@@ -1,0 +1,14 @@
+font=FiraCode Nerd Font:size=20
+
+border-radius=10
+default-timeout=5000
+padding=20
+height=300
+
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#cba6f7
+progress-color=over #313244
+
+[urgency=high]
+border-color=#fab387
