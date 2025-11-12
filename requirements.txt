@@ -1,0 +1,14 @@
+fish
+kitty
+cliphist
+fuzzel
+eza
+mako
+nvim
+swappy
+waybar
+wlogout
+hypridle
+hyprland
+hyprlock
+hyprpaper
